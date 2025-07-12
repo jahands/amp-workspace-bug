@@ -4,6 +4,8 @@ I found a bug where @'ing a file crashes amp when using a vscode workspace where
 
 ## Environment
 
+System: MacOS Sequoia 15.5
+
 Cursor version:
 
 ```
