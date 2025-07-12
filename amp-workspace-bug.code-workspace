@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "Root",
+      "path": "."
+    },
+    {
+      "name": "Apps1",
+      "path": "apps1"
+    },
+    {
+      "name": "Apps2",
+      "path": "apps2"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "apps1/": true,
+      "apps2/": true
+    }
+  }
+}
