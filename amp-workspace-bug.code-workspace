@@ -5,8 +5,8 @@
       "path": "."
     },
     {
-      "name": "Apps1",
-      "path": "apps1"
+      "name": "shiny-night-aef7",
+      "path": "./apps1/shiny-night-aef7"
     },
     {
       "name": "Apps2",
@@ -15,7 +15,7 @@
   ],
   "settings": {
     "files.exclude": {
-      "apps1/": true,
+      "apps1/shiny-night-aef7/": true,
       "apps2/": true
     }
   }
